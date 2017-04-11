@@ -1,0 +1,3 @@
+*.pyc
+scrap_demons/*.pyc
+scrap_demons/spiders/*.pyc
