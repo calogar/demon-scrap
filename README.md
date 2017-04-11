@@ -1,6 +1,6 @@
-#Wikipedia Demon Scraping
+# Wikipedia Demon Scraping
 
-This is a [Scrapy](https://scrapy.org/) project built with the objective of scraping (extracting information) from Wikipedia pages about videogames of the Shin Megami Tensei saga, so it can be used to develop simulations and test applications.
+This is a <a href="https://scrapy.org/" target="_blank">Scrapy</a> project built with the objective of scraping (extracting information) from Wikipedia pages about videogames of the Shin Megami Tensei saga, so it can be used to develop simulations and test applications.
 
 The scraping code is located in the `scrap_demons` subfolder and classified into **spiders**. To execute each spider, we can do it from console command:
 
